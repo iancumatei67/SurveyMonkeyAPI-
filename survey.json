@@ -1,0 +1,31 @@
+{
+   "Favorite_Animals_Survey": {
+      "Questions_Page": {
+         "Favorite_Mammal": {
+            "Description": "Which mammal is your favorite?",
+            "Answers": [
+               "Dolphin",
+               "Elephant",
+               "Kangaroo"
+            ]
+         },
+         "Favorite_Bird": {
+            "Description": "Pick your favorite bird.",
+            "Answers": [
+               "Eagle",
+               "Parrot",
+               "Penguin"
+            ]
+         },
+         "Favorite_Color": {
+            "Description": "What is your favorite color?",
+            "Answers": [
+               "Blue",
+               "Green",
+               "Red"
+            ]
+         }
+      }
+   }
+}
+
